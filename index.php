@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Home</title>
+		<title>Home (My Sweet Shop)</title>
 	</head>
 	<body>
 		<ul>
