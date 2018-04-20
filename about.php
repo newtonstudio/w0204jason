@@ -9,6 +9,6 @@
 			<li><a href="about.php">ABOUT</a></li>
 		</ul>
 		<h1>About</h1>		
-		<p>This page is under construction...</p>
+		<p><img src="garfield.jpg"/></p>
 	</body>
 </html>
