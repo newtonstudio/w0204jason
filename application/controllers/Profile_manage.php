@@ -3,6 +3,10 @@ class Profile_manage extends CI_Controller {
 
 	private $data;
 
+	public function test(){
+		
+	}
+
 	public function __construct(){
 		parent::__construct();
 		$this->data = array();
